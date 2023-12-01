@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 0c8fb49ff3737494c8169dd5301ae821
+  - enabled: 1
+    path: Assets/Scenes/MainGameSceneOcean.unity
+    guid: 27cccee17be3878418b6a86e6797d9f1
+  - enabled: 1
+    path: Assets/Scenes/PlayerHouse.unity
+    guid: cd283d0617c7b174a9e2512fa13c6366
+  - enabled: 1
+    path: Assets/Scenes/BossFight.unity
+    guid: 09fb53268db1316438c3a12bce190c6f
+  m_configObjects: {}

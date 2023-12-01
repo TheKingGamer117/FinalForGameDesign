@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: efe7cf56a1d6103409a1512246059a4b, type: 3}
+  m_Name: OxygenStim 1
+  m_EditorClassIdentifier: 
+  id: 33
+  itemName: Oxygen Stim V2
+  description: Gives 50 Oxygen Points
+  icon: {fileID: 21300000, guid: ce7609f353cbf84469fa57b9a88c758a, type: 3}
+  value: 5
+  baseCost: 50
+  maxLv: 2
+  isEquippable: 0
+  isStackable: 1
+  stackCount: 1
+  currentLocation: 0
+  itemType: 1
+  healthValue: 0
+  oxygenValue: 50
+  damageValue: 0

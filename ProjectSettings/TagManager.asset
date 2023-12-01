@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spring
+  - FallingObject
+  - Treasure
+  - Fish
+  - DeadFish
+  - Inventory
+  - Chest
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Wall
+  - 
+  - Player
+  - 
+  - 
+  - Fish
+  - AttackingFish
+  - 
+  - 
+  - Treasure
+  - 
+  - 
+  - 
+  - Projectile
+  - 
+  - 
+  - 
+  - DeadFish
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Navmesh
+  - Gradient
+  - WaterLayer
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Barracuda
+    uniqueID: 2177626079
+    locked: 0
+  - name: Bass
+    uniqueID: 3482569817
+    locked: 0
+  - name: BluePerch
+    uniqueID: 810005071
+    locked: 0
+  - name: Dolphin
+    uniqueID: 3279529093
+    locked: 0
+  - name: Kingfish
+    uniqueID: 1706696821
+    locked: 0
+  - name: Queenfish
+    uniqueID: 2930110917
+    locked: 0
+  - name: Sunfish
+    uniqueID: 2778381177
+    locked: 0
+  - name: Whaleshark
+    uniqueID: 3494740721
+    locked: 0
+  - name: KillerWhale
+    uniqueID: 3663777099
+    locked: 0
+  - name: Swordfish
+    uniqueID: 201435643
+    locked: 0
+  - name: Shark
+    uniqueID: 4268151045
+    locked: 0
+  - name: GreatWhiteShark
+    uniqueID: 3048799359
+    locked: 0
+  - name: Boss
+    uniqueID: 127636195
+    locked: 0
